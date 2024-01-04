@@ -1,0 +1,15 @@
+.appjunta {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+@media (max-width: 768px) {
+    .appjunta{
+        width: 100%;
+    }
+    .todo {
+        width: 100%;
+    }
+}
